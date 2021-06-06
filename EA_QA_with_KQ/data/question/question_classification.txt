@@ -1,0 +1,10 @@
+0:nnc 地址
+1:nnc 创办时间
+2:nnc 业务
+3:nnc 股票
+4:nnc 人员列表
+5:nnc nnp 人员
+6:nnr nnc 职位
+7:nnr 出生日期
+8:nnr 学历
+9:nnr 公司
